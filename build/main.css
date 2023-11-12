@@ -1,0 +1,8 @@
+html, body {
+  letter-spacing: 0;
+  font-family: "Rubik", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=main.css.map */
